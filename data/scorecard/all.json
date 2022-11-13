@@ -3,10 +3,11 @@
     "systemEntityName": "corporate-bonds",
     "systemTier": "B",
     "SystemDataConfidentiality": "Public",
-    "generatedDateTimeUtc": "2021-07-22 10:00",
+    "generatedDateTimeUtc": "2022-07-22 10:00",
     "scorePercent": 20,
-    "scoreSuccess": "failure",
-    "scoringReviewer": "andrew",
+    "scoreSuccess": "success",
+    "scoringReviewer": "andrew_quadcorps.co.uk",
+    "scoringReviewDate": "2022-01-04T08:00:00Z",
     "areaScores": [
       {
         "id": 2199,
@@ -312,7 +313,7 @@
     "SystemDataSensitivity": ["PII", "Sensitive-PII"],
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
-    "scoringReviewer": "andrew",
+    "scoringReviewer": "andrew_quadcorps.co.uk",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
     "scoreSuccess": "partial",
     "areaScores": [
