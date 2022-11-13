@@ -9,7 +9,7 @@
     "scoringReviewer": "n/a"
   },
   {
-    "systemEntityName": "audio-playback",
+    "systemEntityName": "government-bonds",
     "systemTier": "A",
     "SystemDataConfidentiality": "Confidential",
     "SystemDataSensitivity": ["PII", "Sensitive-PII"],
