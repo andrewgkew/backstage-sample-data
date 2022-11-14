@@ -1,5 +1,5 @@
 {
-  "systemEntityName": "government-bonds",
+  "systemEntityName": "corporate-bonds",
   "systemTier": "A",
   "SystemDataConfidentiality": "Confidential",
   "SystemDataSensitivity": ["PII", "Sensitive-PII"],
