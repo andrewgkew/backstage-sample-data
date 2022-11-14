@@ -13,7 +13,7 @@
       "id": 2199,
       "title": "Code",
       "scorePercent": 20,
-      "scoreSuccess": "success",
+      "scoreSuccess": "failure",
       "scoreEntries": [
         {
           "id": 2157,
@@ -120,7 +120,7 @@
       "id": 2208,
       "title": "Operations",
       "scorePercent": 80,
-      "scoreSuccess": "partial",
+      "scoreSuccess": "success",
       "scoreEntries": [
         {
           "id": 2210,
@@ -236,7 +236,7 @@
       "id": 4333,
       "title": "Quality",
       "scorePercent": 50,
-      "scoreSuccess": "almost-failure",
+      "scoreSuccess": "partial",
       "scoreEntries": [
         {
           "id": 2187,
