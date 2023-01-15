@@ -1,6 +1,6 @@
 [
   {
-    "systemEntityName": "corporate-bonds",
+    "systemEntityName": "healthcare-claims-admin",
     "systemTier": "B",
     "SystemDataConfidentiality": "Public",
     "generatedDateTimeUtc": "2022-07-22 10:00",
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "systemEntityName": "government-bonds",
+    "systemEntityName": "pension-admin",
     "systemTier": "A",
     "SystemDataConfidentiality": "Confidential",
     "SystemDataSensitivity": ["PII", "Sensitive-PII"],
